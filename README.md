@@ -8,7 +8,7 @@ This project is a Todo List application built using **React** and **Vite**. It l
 - **Vite**: A build tool that provides a fast development environment and optimized production builds.
 - **Ant Design**: A design system that provides a set of high-quality React components for building rich user interfaces.
 - **Lucide Icons**: A collection of open-source icons for use in the application.
--**Tailwind CSS**: A utility-first CSS framework for creating modern designs.
+- **Tailwind CSS**: A utility-first CSS framework for creating modern designs.
 
 ## Features
 
